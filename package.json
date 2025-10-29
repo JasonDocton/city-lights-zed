@@ -1,0 +1,11 @@
+{
+	"name": "city-lights-icon-theme",
+	"version": "1.0.0",
+	"description": "A port of YummyGum's City Lights Icon Theme for Zed. https://citylights.xyz",
+	"scripts": {
+		"build": "npx tsx src/build.ts"
+	},
+	"devDependencies": {
+		"@types/node": "^22.14.1"
+	}
+}

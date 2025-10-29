@@ -1,0 +1,7 @@
+id = "city-lights"
+name = "City Lights Icon Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Jason Docton <jason@youarerad.org>"]
+description = "City Lights icons for Zed. A port of YummyGum's City Lights Icon Theme."
+repository = "https://github.com/JasonDocton/city-lights-zed"

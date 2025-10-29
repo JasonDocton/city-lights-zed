@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+dist
+coverage
+.claude
+compress-svgs.sh
+rename-compressed.sh
+compress-or-die-urls.html
+compress-or-die-urls.txt
